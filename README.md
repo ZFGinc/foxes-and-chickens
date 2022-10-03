@@ -1,7 +1,7 @@
-#2 foxes and 20 chickens
+# 2 foxes and 20 chickens
 This project was created for educational purposes.
 
-#Formulation of the problem:
+# Formulation of the problem:
 On the field of the indicated form there are two foxes and 20 hens
 ![image](https://user-images.githubusercontent.com/65143834/193496082-f2b23204-fca6-4d98-b7a1-3aad6caf8f39.png)
 
